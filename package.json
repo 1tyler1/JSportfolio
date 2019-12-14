@@ -4,7 +4,9 @@
     "description": "Responsive Portfolio",
     "main": "index.js",
     "scripts": {
-        "sass": "node-sass -w scss/ -o dist/css --recursive"
+        "sass": "node-sass -w scss/ -o dist/css --recursive",
+        "npm": "npm start"
+
     },
     "author": "Tyler Forster",
     "license": "MIT",
